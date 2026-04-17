@@ -21,9 +21,9 @@ Ultimately, here, members who break a server rule should know _which_ rule they 
 
 Given the current structure, the staff roles involved in moderation are, generically;
 - Server Owner (Seraphina)
-- Administrators (All roles specifically with the Administrator privilege granted) - currently 3
-- Server Moderators - currently 16 (inclusive of the two Administrators)
-- Advisors (non-privileged advisory input on incidents) - currently 7
+- Administrators (All roles specifically with the Administrator privilege granted)
+- Server Moderators
+- Advisors (non-privileged advisory input on incidents)
 
 This division seems workable at the moment, however it may be desirable to add a "Senior Moderator" tier between Administrators and Server Moderators, into which trusted moderators can be bestowed the privilege to kick and ban users (which would be removed from the normal Server Moderator role).
 
@@ -134,7 +134,7 @@ With Quarantine channels as outlined in 2.3.1, handling of an incident becomes a
 
 8. If the Server Member is to remain in the server, allow the Server Member to ask any more questions and at an opportune time, relieve them of their Quarantine role.
 
-#### 2.3.2 Incident Handling: Outcomes
+#### 2.3.3 Incident Handling: Outcomes
 
 This aspect varies a lot server-to-server, but from the most common systems:
 
