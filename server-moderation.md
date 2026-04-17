@@ -134,7 +134,35 @@ With Quarantine channels as outlined in 2.3.1, handling of an incident becomes a
 
 8. If the Server Member is to remain in the server, allow the Server Member to ask any more questions and at an opportune time, relieve them of their Quarantine role.
 
-#### 2.3.3 Incident Handling: Outcomes
+##### 2.3.2.1 Incident Handling: Process flow: Considerations
+
+- The moderator who places the user into the Quarantine Channel is the case handler. Only this moderator speaks to the user in the Quarantine Channel.
+
+  Conversation about the incident between moderators takes place in the moderator coordination channel.
+
+  This keeps the number of competing voices in the Quarantine Channel to a minimum and allows for a direct resolution.
+
+- The user may request to discuss their case with a different moderator, or escalate it to a server administrator.
+
+  Such requests should usually be honoured unless there is a pressing reason not to do so. A user should not expect to be able to request a different moderator more than once, however.
+
+- Similarly, the moderator handling the case may choose to request the assistance of another team member at any point during the process.
+
+  **This is a _swap_, not a team-up. There should only ever be one staff member actively handling the case with the user in the Quarantine Channel at any one time.**
+
+#### 2.3.3 Incident Handling: Voice Chat
+
+Voice chats are often much more difficult to moderate due to the impermanent nature of the conversation. 
+
+Often, the situation will rely on the testimony of the parties present, and there will not always be clear evidence, since the audio stream cannot be reviewed after the incident.
+
+Moderation of incidents that occur in voice chat follows the flow outlined in **2.3.2**, however. The process remains the same as for incidents in text chat.
+
+Determining the parties at fault and an appropriate outcome will often fall to a judgement call on the part of the handling moderator. 
+
+Consultation with the wider team in the coordination channels is strongly encouraged for these cases.
+
+#### 2.3.4 Incident Handling: Outcomes
 
 This aspect varies a lot server-to-server, but from the most common systems:
 
