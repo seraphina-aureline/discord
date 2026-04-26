@@ -184,7 +184,7 @@ The process runs thus:
 
 5. Confer privately, as required, with the supervising Senior Server Moderator or Administrator during and after the interview to agree on the outcome for the applicant.
 
-6. In cases where the interviewers believe there are sufficient grounds to reject the application, escalate the case to the <reviewer role tbd> for final oversight on **all** rejections. Lay out the facts of the application and add them to the interview chat for review of the conversation.
+6. In cases where the interviewers believe there are sufficient grounds to reject the application, escalate the case to the holders of the **Minister of State** role for final oversight on **all** rejections. Lay out the facts of the application and add them to the interview chat for review of the conversation.
 
 7. Once the final decision is made, accept or reject the applicant as appropriate. This action is taken by you as the interview lead.
 
