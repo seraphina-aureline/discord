@@ -22,12 +22,9 @@ Ultimately, here, members who break a server rule should know _which_ rule they 
 Given the current structure, the staff roles involved in moderation are, generically;
 - Server Owner (Seraphina)
 - Administrators (All roles specifically with the Administrator privilege granted)
+- Senior Moderators
 - Server Moderators
 - Advisors (non-privileged advisory input on incidents)
-
-This division seems workable at the moment, however it may be desirable to add a "Senior Moderator" tier between Administrators and Server Moderators, into which trusted moderators can be bestowed the privilege to kick and ban users (which would be removed from the normal Server Moderator role).
-
-This is mostly useful if the Moderator role is offered out on a rotating basis (see 2.2.1).
 
 ### 2.2 Staff responsibilities
 #### Goals addressed: 1.1
@@ -44,13 +41,11 @@ This structure is _heirarchical_, and responsibilities _cascade down_. The dutie
 	- Sets server policies that will align to the goals laid out by the Server Owner, in concert with the Server Owner.
 	- Manages the Server Moderation and Advisor team members.
 	  
-- _Senior Server Moderator (if added)_
+- _Senior Server Moderator_
 	- Handles removal of Server Members where required.
 	  
 - *Server Moderator*
 	- Enforces the server rules and policies set out by the Server Administration team.
-	  
-	- Handles removal of Server Members where required (in the absence of the *Senior Server Moderator* role)
 	  
 - *Advisor*
 	- Offers their input and experience to the Server Moderator and Server Administration teams in a non-enforcing capacity.
@@ -59,18 +54,9 @@ _Discretion_ is a core responsibility of all staff. These are trusted positions
 
 #### 2.2.1 Staff Appointment and Rotation
 
-It's often useful or desirable to _rotate_ staff at the Server Moderator level on a periodic basis, to encourage activity and to prevent stagnation within the moderation function. 
+It's often useful or desirable to _rotate_ staff at the Server Moderator level on a periodic basis, to encourage activity and to prevent stagnation within the moderation function.
 
 If so, this is where adding the _Senior Server Moderator_ role comes into its highest form of relevance; Rotation of Server Moderators is best performed when the role does _not_ carry expressly elevated privleges. 
-
-While the role remains a position of trust, it requires substantially _less_ trust in the individual Server Moderator. This would be achieved by the removal of the Server Moderator's permissions to Kick and Ban Users. 
-
-They'd retain: 
-- Manage Users (for adjusting their roles)
-  
-- Manage Messages (for removing messages sent by others) 
-  
-- Timeout - though the use of a Quarantine Channel (see 2.3.1) should be preferred over timeouts.
 
 Appointment of rotating staff is usually handled via an application form, which is then reviewed by the Senior Server Moderators (in an advisory capacity) and the Server Administrator team. 
 
@@ -128,7 +114,7 @@ With Quarantine channels as outlined in 2.3.1, handling of an incident becomes a
 
 7. After achieving acknowledgement of the offense, issue a proportionally appropriate outcome (See 2.3.2) and ensure the Server Member is aware of this outcome. 
  
-	If the *Senior Server Moderator* role is required to remove the Server Member from the server as part of their outcome, one should be requested in the moderation coordination channel by pinging that role. 
+	If a *Senior Server Moderator* is required to remove the Server Member from the server as part of their outcome, one should be requested in the moderation coordination channel by pinging that role. 
 	
 	While the Server Member is quarantined this can be considered non-urgent, since they've already been removed from the public server at this point.
 
@@ -142,7 +128,7 @@ With Quarantine channels as outlined in 2.3.1, handling of an incident becomes a
 
   This keeps the number of competing voices in the Quarantine Channel to a minimum and allows for a direct resolution.
 
-- The user may request to discuss their case with a different moderator, or escalate it to a server administrator.
+- The user may request to discuss their case with a different moderator, or escalate it to a senior moderator or server administrator.
 
   Such requests should usually be honoured unless there is a pressing reason not to do so. A user should not expect to be able to request a different moderator more than once, however.
 
@@ -172,4 +158,4 @@ Server Members accumulate _Strikes_ as in Baseball when they are deemed to be at
   
 After having received two such strikes, the Server Member's next incident is automatically escalated and the Server Member's removal from the server is considered.
   
-It's good to have these strikes _expire_ after a certain amount of time (3 months or so) to prevent historical incidents keeping a Server Member at the two-strike threshold in perpetuity. 
+It's good to have these strikes _expire_ after a certain amount of time (3 months or so) to prevent historical incidents keeping a Server Member at the two-strike threshold in perpetuity.
