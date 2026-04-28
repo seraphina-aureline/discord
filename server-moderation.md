@@ -34,9 +34,9 @@ The duties of each role should be clearly set out, and this should be clear to a
 This structure is _heirarchical_, and responsibilities _cascade down_. The duties of a Server Administrator _extend and include_ the duties of a Server Moderator. In this vein, the Server Owner holds the duties of all the staff roles.
 
 - _Server Owner - Seraphina_ 
-	- Holds the ownership of the server (tautologically). 
+	- Holds the ownership of the server (tautologically).
 	- Sets out the goals for the server and the community within it.
-	  
+
 - _Server Administrator_ 
 	- Sets server policies that will align to the goals laid out by the Server Owner, in concert with the Server Owner.
 	- Manages the Server Moderation and Advisor team members.
@@ -159,3 +159,37 @@ Server Members accumulate _Strikes_ as in Baseball when they are deemed to be at
 After having received two such strikes, the Server Member's next incident is automatically escalated and the Server Member's removal from the server is considered.
   
 It's good to have these strikes _expire_ after a certain amount of time (3 months or so) to prevent historical incidents keeping a Server Member at the two-strike threshold in perpetuity.
+
+### 2.4 Server Member Applications
+
+New Server Members are subject to an application process prior to joining the server, which requires a Server Moderator to review their answers to a set of pre-selected questions set by the Server Administrators. The questions are updated from time-to-time, so they are not detailed here, but when amended it should be made clear to the Server Moderator team what an acceptable response to the questions should look like.
+
+Where an application is judged by a Server Moderator to be _uncertain_, that is, the correct outcome is unclear between Accept/Reject, the applicant should be interviewed.
+
+#### 2.4.1 Server Member Applications: Interviews
+
+Discord offers the option to interview applicants via a specialised group DM. Since this happens _before_ the applicant joins the server, the process necessarily happens externally to the server and is therefore largely invisible to the wider team.
+
+Interviews are led by a Server Moderator, however at least one Senior Moderator or Administrator _must_ be present within the interview chat to supervise proceedings. A Senior Moderator or Administatrator _may_ conduct an interview alone. In all cases, only one staff member should actively participate in the interview at once time, similar to how discussions are performed in quarantine channels.
+
+The process runs thus:
+
+0. Select to interview the applicant and add a Senior Moderator or Administrator as appropriate. **You are the interview lead**.
+
+1. Greet the applicant, thank them for applying, and explain that their answers to the application questions have raised some further questions we'd like to clear up.
+
+3. Keep the tone light and neutral or positive. Be friendly but steer the conversation to the point - get the answers required to verify the process. 
+
+4. Once the conversation has concluded, thank the applicant for their time. If you expect that a long deliberation process will take place, let them know they will receive an update shortly. 
+
+5. Confer privately, as required, with the supervising Senior Server Moderator or Administrator during and after the interview to agree on the outcome for the applicant. Input from the wider team may be sought by the interviewing team as desired; otherwise, only the staff actively participating in the interview should comment on it.
+
+6. In cases where the interviewers believe there are sufficient grounds to reject the application, escalate the case to the holders of the **Minister of State** role for final oversight on **all** rejections. Lay out the facts of the application and add them to the interview chat for review of the conversation.
+
+7. Once the final decision is made, accept or reject the applicant as appropriate. This action is taken by you as the interview lead.
+
+8. **If the applicant is rejected**, ensure the reasoning for the rejection is clearly stated for later auditing. **Also communicate this reasoning to the applicant before they're rejected**.
+
+9. In cases where there is doubt raised during the application process, a Senior Server Moderator or Administrator may personally vouch for the character of an applicant and accept their application. Record this in [tower-records](https://discord.com/channels/1391169687764602990/1493655746833809579) as an out-of-process approval, and accept the application as normal.
+
+NB: You do not need to record a normal application approval, because the approved application records who approved it. Only rejections and vouched approvals require this extra audit step.
