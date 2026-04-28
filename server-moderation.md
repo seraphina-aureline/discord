@@ -182,13 +182,13 @@ The process runs thus:
 
 4. Once the conversation has concluded, thank the applicant for their time. If you expect that a long deliberation process will take place, let them know they will receive an update shortly. 
 
-5. Confer privately, as required, with the supervising Senior Server Moderator or Administrator during and after the interview to agree on the outcome for the applicant.
+5. Confer privately, as required, with the supervising Senior Server Moderator or Administrator during and after the interview to agree on the outcome for the applicant. Input from the wider team may be sought by the interviewing team as desired; otherwise, only the staff actively participating in the interview should comment on it.
 
 6. In cases where the interviewers believe there are sufficient grounds to reject the application, escalate the case to the holders of the **Minister of State** role for final oversight on **all** rejections. Lay out the facts of the application and add them to the interview chat for review of the conversation.
 
 7. Once the final decision is made, accept or reject the applicant as appropriate. This action is taken by you as the interview lead.
 
-8. **If the applicant is rejected**, record this in [tower-records](https://discord.com/channels/1391169687764602990/1493655746833809579) and ensure the reasoning for the rejection is clearly stated. **Also communicate this reasoning to the applicant before they're rejected**.
+8. **If the applicant is rejected**, ensure the reasoning for the rejection is clearly stated for later auditing. **Also communicate this reasoning to the applicant before they're rejected**.
 
 9. In cases where there is doubt raised during the application process, a Senior Server Moderator or Administrator may personally vouch for the character of an applicant and accept their application. Record this in [tower-records](https://discord.com/channels/1391169687764602990/1493655746833809579) as an out-of-process approval, and accept the application as normal.
 
