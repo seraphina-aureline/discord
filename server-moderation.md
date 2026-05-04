@@ -74,7 +74,9 @@ When incidents occur _on or in the community surrounding the server_ (say, exter
 	_Quarantine channels_ (a _"jail"_ of sorts) into which a user can be locked by means of the addition of a singular server role, offer a space for discussion between Server Member and Server Moderator that is isolated from the public server, but is visible to all staff and persistent once the incident has been resolved.
 	
 - Incident Log:
-	Once an incident has been successfully resolved, a structured record of the  incident placed into a log channel offers a quick reference for all staff into what happened, when, who was involved, and what the resolution was. 
+    The Records Forum channel holds threads pertaining to Server Members who have attracted the attention of the Server Moderators in the past, either through previous incidents or other notable concerns. Threads under this forum are titled by the user's discord username.
+  
+	Once an incident has been successfully resolved, a structured record of the incident placed into the user's record offers a quick reference for all staff into what happened, when, who was involved, and what the resolution was. 
 	
 	This works best when it utilises a consistent template, such as:
 	
@@ -84,8 +86,6 @@ When incidents occur _on or in the community surrounding the server_ (say, exter
 ## Moderator Name:
 
 ## Date and Time of Incident (use @time):
-
-## Discord ID (@mention) of Instigating User:
 
 ## Instigating Message(s) (copy-paste message URL(s)):
 
@@ -108,7 +108,7 @@ With Quarantine channels as outlined in 2.3.1, handling of an incident becomes a
 
 4. Explain to the user the reason why they are in the Quarantine channel and be specific to the rule violation(s). If able, post a screenshot of the violation and remain as impartial to the context of the offense as possible.
 
-5. Search within the Incident Log channel for prior incidents which reference this Server Member. A search string like `in:#incident-log mentions:<Server Member>`.
+5. Search within the Records Forum for a thread pertaining to this Server Member's discord _username_, to check for previous moderation incidents and any other noted concerns. If one does not already exist, create one to hold the record of this incident (follow the template above).
 
 6. Aim the conversation into acknowledgement of the offense. Allow the Server Member to ask questions but maintain your composure and speak only to the facts of the situation.
 
@@ -190,6 +190,6 @@ The process runs thus:
 
 8. **If the applicant is rejected**, ensure the reasoning for the rejection is clearly stated for later auditing. **Also communicate this reasoning to the applicant before they're rejected**.
 
-9. In cases where there is doubt raised during the application process, a Senior Server Moderator or Administrator may personally vouch for the character of an applicant and accept their application. Record this in [tower-records](https://discord.com/channels/1391169687764602990/1493655746833809579) as an out-of-process approval, and accept the application as normal.
+9. In cases where there is doubt raised during the application process, a Senior Server Moderator or Administrator may personally vouch for the character of an applicant and accept their application. Record this in the Server Member's record in the Records Forum (this will most likely require creating a new one) as an out-of-process approval, and accept the application as normal.
 
 NB: You do not need to record a normal application approval, because the approved application records who approved it. Only rejections and vouched approvals require this extra audit step.
